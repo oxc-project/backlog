@@ -23,3 +23,11 @@ If any of the issues in this repo are of interest to you and you're considering 
 ## Issues
 
 [Backlog issues](https://github.com/oxc-project/backlog/issues)
+
+## ❤ Who's [Sponsoring Oxc](https://github.com/sponsors/Boshen)?
+
+<p align="center">
+  <a href="https://github.com/sponsors/Boshen">
+    <img src="https://raw.githubusercontent.com/Boshen/sponsors/main/sponsors.svg" alt="Our sponsors" />
+  </a>
+</p>
